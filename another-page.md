@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
+## Página de anotação
 _yay_
 
 [back](./)

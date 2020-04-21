@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](/assets/images/binary.jpg)
 
 ### Large image
 
